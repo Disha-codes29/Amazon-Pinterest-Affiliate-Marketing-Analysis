@@ -26,7 +26,8 @@ Marketing trends on Pinterest in India using real Google Trends data.
 - Peak interest was recorded in early 2022
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](<img width="1191" height="663" alt="Screenshot 2026-04-18 211506" src="https://github.com/user-attachments/assets/68c15687-9e30-4542-9299-7b36119f78c1" />
+)
 
 ## Dataset
 - Source: Google Trends via Pytrends API
